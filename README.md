@@ -56,4 +56,3 @@ Do not commit `.env.local` or any private service-role key. The browser applicat
 ## Author
 
 Designed and developed by Rashika Tasnim Keya.
-# second-circle-marketplace
