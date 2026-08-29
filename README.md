@@ -4,6 +4,8 @@ A full-stack marketplace for discovering, saving, listing, and discussing pre-ow
 
 
 Visitors can browse the catalogue without an account. Registration is required to save items, publish a listing, or contact a seller.
+## See the live demo:
+https://second-circle-marketplace.vercel.app/
 
 ## Features
 
