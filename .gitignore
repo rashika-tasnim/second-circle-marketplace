@@ -9,6 +9,7 @@ out/
 .env
 .env.local
 .env.*.local
+.vs/
 
 # Logs and operating-system files
 *.log
@@ -18,3 +19,10 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
